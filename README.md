@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there 👋
-
 I’m **Fan**, a student specializing in **Computational Sciences and Computer Engineering** based in Canada.
 
 I mostly work on **Machine Learning and Data Intelligence** — focusing on building systems that learn, adapt, and scale.
