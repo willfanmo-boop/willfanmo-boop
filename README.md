@@ -8,7 +8,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/77b83072225391.5be0163351325.gif" width="380px" alt="Neural Network Data Flow">
 </p>
 
-* 🎓 Currently pursuing **M.Sc. in Computational Sciences** at Laurentian University (GPA: 10/10).
+* 🎓 Currently pursuing **M.Sc. in Computational Sciences** at Laurentian University.
 * 💻 Background in **Computer Engineering** from McMaster University.
 * 🤖 I have experience in **Machine Learning (NLP, Reinforcement Learning)** and **Web Scraping** using Playwright and BeautifulSoup.
 * 🏗️ **Currently focusing on** — improving the efficiency of AI-powered data systems.
