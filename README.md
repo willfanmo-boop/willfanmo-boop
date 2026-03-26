@@ -23,16 +23,12 @@ I have a background in **Computer Engineering**, so I enjoy the intersection of 
 
 This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built with a focus on logic and performance.
 
----
-
 ### Tools & Tech
 
 * **Python, C++, Java**
 * **Machine Learning & NLP Frameworks**
 * **Web Scraping & Data Automation**
 * **Embedded Systems & Hardware**
-
----
 
 ### A Bit More
 
